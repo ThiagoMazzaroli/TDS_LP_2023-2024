@@ -3,7 +3,6 @@
 int main()
 {
      
-    int resultados[9];
     int multi;
     
     
