@@ -1,6 +1,7 @@
-# SENAI
 
+# Sobre este repositório
 
+Este repositório é destinado aos trabalhos feitos no curso Técnico desenvolvimento de sistemas que estou cursando no SENAI! Ainda estou no inicio do curso que se encerra em 2025, espero que goste dos meus projetos! 
 
 
 
@@ -36,6 +37,6 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado!
 
 </div>
 
-Link do repositório: [[https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)](https://github.com/ThiagoMazzaroli/TDS_LP_2023.git)
+Link do repositório: (https://github.com/ThiagoMazzaroli/TDS_LP_2023.git)
 
 
