@@ -6,27 +6,27 @@ int main(){
     int resultado[11];
 
     //for que exibe a quantidade de tabuadas a serem mostradas, nesse caso até 10
-    for(int b=1; b <=10; b++ ){
+    for(int tabuNum=1; tabuNum <=10; tabuNum++ ){
 
-        resultado[b] = 0;
+        resultado[tabuNum] = 0;
         int calc = 0;
         
-        printf("TABUADA %d\n  ", b);
+        printf("TABUADA %d\n  ", tabuNum);
         
         //for que exibe os resultados das tabuadas individualmente
-        for(int p=1; p <=10; p++ ) {
+        for(int i=1; i <=10; i++ ) {
             
-            calc = b * p;
+            calc = tabuNum * i;
 
-            printf("\n %d X %d = %d", b, p, calc);
+            printf("\n %d X %d = %d", tabuNum, i, calc);
 
             //faz o calculo da soma das tabuadas
-            resultado[b] = resultado[b] + calc;
+            resultado[tabuNum] = resultado[tabuNum] + calc;
             total = total + calc;
         }
         
         //exibe o total da soma de cada tabuada
-        printf(" \n TOTAL = %d\n \n", resultado[b], b);
+        printf(" \n TOTAL = %d\n \n", resultado[tabuNum], tabuNum);
     }
     
     //exibe a soma total de todas as tabuadas
