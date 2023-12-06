@@ -20,13 +20,16 @@ int main(){
 
             printf("\n %d X %d = %d", b, p, calc);
 
+            //faz o calculo da soma das tabuadas
             resultado[b] = resultado[b] + calc;
             total = total + calc;
         }
-
+        
+        //exibe o total da soma de cada tabuada
         printf(" \n TOTAL = %d\n \n", resultado[b], b);
     }
-
+    
+    //exibe a soma total de todas as tabuadas
     printf("Valor total das soma deu: %d\n", total);
 
     return 0;
