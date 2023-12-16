@@ -16,7 +16,7 @@ Todos os projetos feitos neste repositório até agora foram feitos utilizando a
 <!-- GETTING STARTED -->
 ## Como usar
 
-Todos os códigos deste repositorio são simples e utilizam sómente um arquivo, sendo assim você pode executalos tanto em uma IDE, quanto em um compilador online sem dificuldades
+Todos os códigos deste repositorio são simples e utilizam sómente um arquivo, sendo assim você pode executa-los tanto em uma IDE, quanto em um compilador online sem dificuldades
 
 
 
