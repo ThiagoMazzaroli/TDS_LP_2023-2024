@@ -1,6 +1,4 @@
 
-#include <stdio.h>
-
 int main()
 {
     float nota1;
