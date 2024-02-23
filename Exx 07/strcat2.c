@@ -13,7 +13,7 @@ int main(){
     
     while(getchar() != '\n');
 
-     strcat (frase1, frase2);
+    strcat (frase1, frase2);
     printf("a juncao das palavras e %s ", frase1);
 
 
