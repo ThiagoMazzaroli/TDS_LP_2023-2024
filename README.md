@@ -8,7 +8,7 @@ Este repositório é destinado aos trabalhos feitos no curso Técnico desenvolvi
 ## Construido com
 
 
-Todos os projetos feitos neste repositório até agora foram feitos utilizando a linguagem C, futuramente estaremos usando novas tecnologias
+Todos os projetos feitos neste repositório foram feitos utilizando a linguagem C
 
 *  <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
